@@ -1,0 +1,3 @@
+unit-tests:
+  script:
+    - echo "hello public"
