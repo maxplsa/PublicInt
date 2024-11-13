@@ -1,3 +1,3 @@
-githb-unit-tests:
+github-unit-tests:
   script:
     - echo "hello public"
